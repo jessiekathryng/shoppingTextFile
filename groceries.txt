@@ -8,3 +8,9 @@ Ingredients for Spaghetti:
 -Tomato Sauce
 -Pasta
 -Parmesean
+
+Ingredients for Pizza:
+Pizza dough
+Marinara Sauce
+Mozzerella
+Pepperoni
