@@ -9,8 +9,17 @@ Ingredients for Spaghetti:
 -Pasta
 -Parmesean
 
+<<<<<<< HEAD
 Ingredients for Pizza:
 Pizza dough
 Marinara Sauce
 Mozzerella
 Pepperoni
+=======
+Ingredients for Tacos:
+-Hamburger
+-Tortillas
+-Cheese
+-Sour Cream
+-Salsa
+>>>>>>> branch1
