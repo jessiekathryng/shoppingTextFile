@@ -8,3 +8,10 @@ Ingredients for Spaghetti:
 -Tomato Sauce
 -Pasta
 -Parmesean
+
+Ingredients for Tacos:
+-Hamburger
+-Tortillas
+-Cheese
+-Sour Cream
+-Salsa
